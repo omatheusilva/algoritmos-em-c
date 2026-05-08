@@ -9,7 +9,7 @@ Repositório com exercícios de programação e estruturas de dados desenvolvido
 ## 📁 Conteúdo
 
 - [Vetores](./Vetores/) - Exercícios com arrays unidimensionais
-- [Matrizes](./Matrizes/) - Em desenvolvimento 🚧
+- Matrizes - Em desenvolvimento 🚧
 
 ## 🛠️ Tecnologias
 
