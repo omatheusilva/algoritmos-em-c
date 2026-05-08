@@ -7,14 +7,14 @@
 Repositório com exercícios de programação e estruturas de dados desenvolvidos em linguagem C. Ideal para estudantes que querem praticar vetores, matrizes e boas práticas de código.
 
 ## 📁 Conteúdo
-
 - [fundamento-logica](./fundamentos-logica) -Exercícios com condicionais e cálculos matemáticos
+- [Estruturas-repetição](./Estruturas-repetição)-Exercícios com for e while
 - [Vetores](./Vetores/) - Exercícios com arrays unidimensionais
 - Matrizes - Em desenvolvimento 🚧
 
 ## 🛠️ Tecnologias
 
-- **Linguagem**: C (padrão ANSI)
+- **Linguagem**: C
 - **IDE**: CLion
 - **Compilador**: GCC
 
