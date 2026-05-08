@@ -21,9 +21,18 @@ Repositório com exercícios de programação e estruturas de dados desenvolvido
 ## 🚀 Como executar
 
 1. Clone o repositório: `git clone https://github.com/omatheusilva/algoritmos-em-c.git`
-2. Entre na pasta: `cd algoritmos-c`
-3. Compile: `gcc -o programa nome_do_arquivo.c`
-4. Execute: `./programa`
+2. Entre na pasta do exercício desejado: `cd algoritmos-em-c/Vetores/rotacao-de-vetor`
+3. Compile: `gcc main.c -o programa`
+4. Execute:
+   - Linux/macOS:`./programa`
+   - windows:`programa.exe`
+
+## 🦁 Como Executar (CMake)
+
+1. Abra a pasta raiz do projeto (algoritmos-em-c) no CLion.
+2. O CLion detectará automaticamente os arquivos CMakeLists.txt dentro das pastas..
+3. No canto superior direito, selecione o Target (o nome do exercício) que você deseja executar.
+4. Clique no botão Run (Play verde) ou pressione Shift + F10.
 
 ## 💡 Observação sobre funções
 
