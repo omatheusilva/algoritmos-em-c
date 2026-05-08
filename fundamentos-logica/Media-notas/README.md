@@ -48,11 +48,11 @@ programa.exe
 
 Exemplo:
 ```text
-Digite a nota 1: 6.0\
+Digite a nota 1: 6.0
 Digite a nota 2: 6.0
 
-Media insuficiente (6.00).\
-Digite a nota do exame: 5.0\
+Media insuficiente (6.00).
+Digite a nota do exame: 5.0
 Aprovado com media final: 5.50
 ```
 ## Autor

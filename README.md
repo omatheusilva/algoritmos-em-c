@@ -8,6 +8,7 @@ Repositório com exercícios de programação e estruturas de dados desenvolvido
 
 ## 📁 Conteúdo
 
+- [fundamento-logica](./fundamentos-logica) -Exercícios com condicionais e cálculos matemáticos
 - [Vetores](./Vetores/) - Exercícios com arrays unidimensionais
 - Matrizes - Em desenvolvimento 🚧
 
