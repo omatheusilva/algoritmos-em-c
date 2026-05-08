@@ -61,7 +61,7 @@ Comece simples e evolua gradualmente!
 
 **Matheus da Silva Cezar**  
 Estudante de Tecnologia em Redes de Computadores - UFSM  
-📧 dasilvacezarmatheus@gmail.com | 💼 [LinkedIn](www.linkedin.com/in/matheus-da-silva-cezar-597b2b408)
+📧 dasilvacezarmatheus@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/matheus-da-silva-cezar-597b2b408)
 
 ***
 
