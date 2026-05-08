@@ -1,0 +1,16 @@
+# Configurações da IDE CLion
+.idea/
+
+# Pastas de build
+cmake-build-*/
+
+# Executáveis
+*.exe
+*.out
+
+# Objetos compilados
+*.o
+*.obj
+
+# Arquivos temporários
+*.tmp
