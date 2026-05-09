@@ -12,6 +12,7 @@ Para facilitar o aprendizado, o repositório é dividido por tópicos. Cada past
 - 📂[Estruturas-repetição](./Estruturas-repetição)-Exercícios com `for` e `while`
 - 📂[Vetores](./Vetores/) - Exercícios com arrays unidimensionais.
 - 📂[Matrizes](./Matriz/) - Exercícios Arrays bidimensionais, laços alinhados e álgebra linear aplicada.
+- 📂[Base Teórica e Prática](./Base-Teórica_Prática) - Resumos complementares, guias de sintaxe e cheat sheets para consulta rápida.
 
 ## 🛠️ Tecnologias e Ferramentas
 
