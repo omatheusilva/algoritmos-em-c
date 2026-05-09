@@ -2,10 +2,6 @@
 
 Esta pasta contém os algoritmos iniciais desenvolvidos para consolidar os conceitos básicos de programação. Aqui, o foco está na compreensão da sintaxe da linguagem C, manipulação de variáveis e tomada de decisão através de estruturas condicionais.
 
-## 🧠 Conceitos Fundamentais
-
-Abaixo estão os pilares teóricos exigidos para compreender os códigos desta seção, detalhados com exemplos práticos:
-
 ## 📂 Conteúdos Abordados
 
 1. **Variáveis e Atribuições**: Exercícios de troca de valores e cálculos de fórmulas matemáticas.
@@ -15,6 +11,10 @@ Abaixo estão os pilares teóricos exigidos para compreender os códigos desta s
 3. **Verificação de Condições**: Programas que determinam lógicas booleanas clássicas (par/ímpar, maioridade, aprovação).
 
 4. **Estrutura Switch-Case**: Organização de menus de escolha múltipla, simplificando cadeias de `if/else`.
+
+## 🧠 Conceitos Fundamentais
+
+Abaixo estão os pilares teóricos exigidos para compreender os códigos desta seção, detalhados com exemplos práticos:
 
 ### 1. Tipagem de Dados
 A linguagem C é fortemente tipada, o que significa que o computador precisa saber exatamente quanto de memória reservar para cada informação.

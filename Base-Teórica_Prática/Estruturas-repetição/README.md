@@ -2,10 +2,6 @@
 
 Esta pasta contém os algoritmos focados em laços de repetição (loops). O objetivo aqui é aprender a executar um mesmo bloco de código múltiplas vezes de forma automatizada, controlando o fluxo de execução com base em condições lógicas.
 
-## 🧠 Conceitos Fundamentais
-
-Abaixo estão os pilares teóricos exigidos para compreender os códigos desta seção, detalhados com exemplos práticos:
-
 ## 📂 Conteúdos Abordados
 
 1. **Iteração Simples**: Uso do for para contagens crescentes, decrescentes e geração de tabuadas.
@@ -15,6 +11,10 @@ Abaixo estão os pilares teóricos exigidos para compreender os códigos desta s
 3. **Lógica de Acumulação**: Programas que somam diversos valores digitados para calcular médias gerais ou somatórios.
 
 4. **Descobrindo Padrões**: Algoritmos que varrem uma sequência de números para encontrar o maior/menor valor lido dentro de um laço.
+
+## 🧠 Conceitos Fundamentais
+
+Abaixo estão os pilares teóricos exigidos para compreender os códigos desta seção, detalhados com exemplos práticos:
 
 ### 1. Laço `for` (Para)
 

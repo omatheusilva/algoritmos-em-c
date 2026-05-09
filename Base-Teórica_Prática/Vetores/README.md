@@ -2,10 +2,6 @@
 
 Esta pasta contém algoritmos voltados para o estudo de Vetores (também conhecidos como Arrays Unidimensionais). O foco aqui é aprender a armazenar, acessar e manipular coleções de dados do mesmo tipo de forma estruturada e eficiente, utilizando uma única variável.
 
-## 🧠 Conceitos Fundamentais
-
-Abaixo estão os pilares teóricos exigidos para compreender os códigos desta seção, detalhados com exemplos práticos:
-
 📂 Conteúdos Abordados
 
 1. **Leitura e Escrita de Dados**: Como transferir dados do usuário para os índices da memória.
@@ -15,6 +11,10 @@ Abaixo estão os pilares teóricos exigidos para compreender os códigos desta s
 3. **Inversão de Lógica**: Programas que leem vetores de trás para frente (índice decrescente).
 
 4. **Algoritmos de Busca**: Identificação de valores extremos (Maior e Menor) em um conjunto de dados.
+
+## 🧠 Conceitos Fundamentais
+
+Abaixo estão os pilares teóricos exigidos para compreender os códigos desta seção, detalhados com exemplos práticos:
 
 ### 1. Declaração e Inicialização
 Um vetor é um bloco contínuo de memória que guarda múltiplos valores do mesmo tipo. Para criá-lo, você informa o tipo de dado, o nome da variável e o tamanho (quantidade de "gavetas" que ele terá) entre colchetes `[]`.

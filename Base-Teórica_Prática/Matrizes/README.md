@@ -2,10 +2,6 @@
 
 Esta pasta contém algoritmos avançados para manipulação de Matrizes (Arrays Bidimensionais). O foco aqui é aprender a projetar e varrer estruturas de dados em formato de grade (tabelas, tabuleiros), dominando a lógica de laços de repetição aninhados e o sistema de coordenadas de linhas e colunas.
 
-## 🧠 Conceitos Fundamentais
-
-Abaixo estão os pilares teóricos exigidos para compreender os códigos desta seção, detalhados com exemplos práticos:
-
 📂 Conteúdos Abordados
 
 1. **Preenchimento e Exibição**: Interação bidimensional com o usuário para montagem de matrizes na memória.
@@ -19,6 +15,10 @@ Abaixo estão os pilares teóricos exigidos para compreender os códigos desta s
 5. **Jogos Clássicos**: Implementação de lógica condicional múltipla e "Early Return" no validador de Jogo da Velha (Tic-Tac-Toe).
 
 6. **Modularização Básica**: Uso de funções `void` e `char` para manter a função `main` limpa (Clean Code), substituindo a necessidade de ponteiros complexos por retornos diretos.
+
+## 🧠 Conceitos Fundamentais
+
+Abaixo estão os pilares teóricos exigidos para compreender os códigos desta seção, detalhados com exemplos práticos:
 
 Modularização Básica: Uso de funções void e char para manter a função main limpa (Clean Code), substituindo a necessidade de ponteiros complexos por retornos diretos.
 
