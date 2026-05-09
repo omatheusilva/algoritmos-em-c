@@ -6,16 +6,17 @@ Algoritmo desenvolvido em C que realiza o preenchimento de uma matriz quadrada (
 
 - Leitura de dados bidimensionais.
 - Cálculo de somatórios isolados para as cruzes diagonais da matriz.
-- **Lógica Otimizada:** Diferente da abordagem tradicional de varrer toda a matriz com dois laços `for` alinhados (25 verificações), este código utiliza um único laço `for` (5 verificações), calculando os índices das diagonais matematicamente para máxima eficiência.
+- **Modularização Simples:** A lógica de cálculo e a impressão dos resultados estão agrupadas em uma única função dedicada, separando a entrada de dados do processamento principal.
+- **Lógica Otimizada:** Utilização de um único laço `for` (apenas 5 verificações) em vez de varrer a matriz inteira, calculando os índices matematicamente para máxima eficiência.
 
 ## Conceitos Aplicados
 
 - **Matrizes (Arrays Bidimensionais)**.
-- Otimização de tempo de execução (Complexidade Linear).
+- Otimização de tempo de execução.
 - Aritmética de Índices:
-    - Principal: `matriz[i][i]`
-    - Secundária: `matriz[i][Tamanho - 1 - i]`
-- **Ponteiros e Passagem por Referência**: Utilizados na função de cálculo para retornar as duas somas simultaneamente.
+  - Principal: `matriz[i][i]`
+  - Secundária: `matriz[i][Tamanho - 1 - i]`
+- Funções do tipo `void` (sem retorno).
 
 ## Como Compilar
 

@@ -6,14 +6,14 @@ Programa desenvolvido em C que realiza a leitura de dados para preencher uma mat
 
 - Preenchimento interativo de uma matriz bidimensional parametrizada por macro (`#define`).
 - Algoritmo de busca com inicialização segura (prevenindo falhas matemáticas com números negativos).
-- Utilização de função com passagem por referência para alterar múltiplas variáveis de rastreamento de uma só vez.
+- Modularização simples, utilizando uma função dedicada para encapsular a lógica de busca e a impressão dos resultados.
 
 ## Conceitos Aplicados
 
 - **Matrizes (Arrays Bidimensionais)**.
 - Algoritmos de Busca Linear simples.
 - Rastreamento de Índices (`i` e `j`).
-- **Introdução a Ponteiros (`*`) e Endereços de Memória (`&`)**: Técnica utilizada para que uma função em C consiga exportar mais de um resultado de volta para a `main`.
+- Laços de repetição aninhados (`for` dentro de `for`) e estruturas condicionais (`if`).
 
 ## Como Compilar
 
