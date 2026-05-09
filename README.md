@@ -8,15 +8,15 @@ Repositório com exercícios de programação e estruturas de dados desenvolvido
 
 ## 📖 Guia de Estudo e Conteúdo
 Para facilitar o aprendizado, o repositório é dividido por tópicos. Cada pasta abaixo possui seu próprio README.md, detalhando os conceitos teóricos e pré-requisitos necessários para entender os códigos daquela seção.
-- 📂[fundamento-logica](./fundamentos-logica) -Exercícios com condicionais e cálculos matemáticos
+- 📂[fundamento-logica](./fundamentos-logica) -Exercícios com condicionais e cálculos matemáticos.
 - 📂[Estruturas-repetição](./Estruturas-repetição)-Exercícios com `for` e `while`
-- 📂[Vetores](./Vetores/) - Exercícios com arrays unidimensionais
-- 🚧**Matrizes** - Em desenvolvimento
+- 📂[Vetores](./Vetores/) - Exercícios com arrays unidimensionais.
+- 📂[Matrizes](./Matriz/) - Exercícios Arrays bidimensionais, laços alinhados e álgebra linear aplicada.
 
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagem**: C
-- **IDE**: CLion (JetBrains)
+- **IDE**: [CLion](https://www.jetbrains.com/clion/) (JetBrains)
 - **Compilador**: GCC
 - **Sistema de Build**: CMake
 
