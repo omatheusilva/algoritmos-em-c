@@ -76,7 +76,7 @@ int main(void) {
     resultado = calcularFibonacci(n);
 
     // Exibição do resultado
-    printf("\nO %dº elemento da serie de Fibonacci eh: %d\n", n, resultado);
+    printf("\nO %d elemento da serie de Fibonacci eh: %d\n", n, resultado);
 
     return 0;
 }
